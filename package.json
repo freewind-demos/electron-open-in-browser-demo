@@ -1,5 +1,5 @@
 {
-  "name": "electron-hello-world-demo",
+  "name": "electron-open-in-browser-demo",
   "version": "1.0.0",
   "description": "",
   "main": "src/main.js",
@@ -9,7 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
   "devDependencies": {
     "electron": "^1.8.4"
   }
